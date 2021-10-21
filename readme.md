@@ -1,6 +1,4 @@
-Zhengnan Zhu
-20782130 z263zhu
-Windows 10
+Tested under Windows 10
 
 Hotkeys:
 Backspace <- navigate up to the parent directory
